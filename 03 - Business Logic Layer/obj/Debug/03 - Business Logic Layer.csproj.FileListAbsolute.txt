@@ -1,0 +1,32 @@
+C:\Users\adi\Downloads\MemoryMatch System-20181211T102334Z-001\MemoryMatch System\03 - Business Logic Layer\bin\Debug\03 - Business Logic Layer.dll.config
+C:\Users\adi\Downloads\MemoryMatch System-20181211T102334Z-001\MemoryMatch System\03 - Business Logic Layer\bin\Debug\03 - Business Logic Layer.dll
+C:\Users\adi\Downloads\MemoryMatch System-20181211T102334Z-001\MemoryMatch System\03 - Business Logic Layer\bin\Debug\03 - Business Logic Layer.pdb
+C:\Users\adi\Downloads\MemoryMatch System-20181211T102334Z-001\MemoryMatch System\03 - Business Logic Layer\bin\Debug\01 - Data Access Layer.dll
+C:\Users\adi\Downloads\MemoryMatch System-20181211T102334Z-001\MemoryMatch System\03 - Business Logic Layer\bin\Debug\02 - Business Entities Layer.dll
+C:\Users\adi\Downloads\MemoryMatch System-20181211T102334Z-001\MemoryMatch System\03 - Business Logic Layer\bin\Debug\EntityFramework.dll
+C:\Users\adi\Downloads\MemoryMatch System-20181211T102334Z-001\MemoryMatch System\03 - Business Logic Layer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\adi\Downloads\MemoryMatch System-20181211T102334Z-001\MemoryMatch System\03 - Business Logic Layer\bin\Debug\01 - Data Access Layer.pdb
+C:\Users\adi\Downloads\MemoryMatch System-20181211T102334Z-001\MemoryMatch System\03 - Business Logic Layer\bin\Debug\01 - Data Access Layer.dll.config
+C:\Users\adi\Downloads\MemoryMatch System-20181211T102334Z-001\MemoryMatch System\03 - Business Logic Layer\bin\Debug\02 - Business Entities Layer.pdb
+C:\Users\adi\Downloads\MemoryMatch System-20181211T102334Z-001\MemoryMatch System\03 - Business Logic Layer\bin\Debug\EntityFramework.xml
+C:\Users\adi\Downloads\MemoryMatch System-20181211T102334Z-001\MemoryMatch System\03 - Business Logic Layer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\adi\Downloads\MemoryMatch System-20181211T102334Z-001\MemoryMatch System\03 - Business Logic Layer\obj\Debug\03 - Business Logic Layer.csprojResolveAssemblyReference.cache
+C:\Users\adi\Downloads\MemoryMatch System-20181211T102334Z-001\MemoryMatch System\03 - Business Logic Layer\obj\Debug\03 - Business Logic Layer.csproj.CoreCompileInputs.cache
+C:\Users\adi\Downloads\MemoryMatch System-20181211T102334Z-001\MemoryMatch System\03 - Business Logic Layer\obj\Debug\03 - Business Logic Layer.dll
+C:\Users\adi\Downloads\MemoryMatch System-20181211T102334Z-001\MemoryMatch System\03 - Business Logic Layer\obj\Debug\03 - Business Logic Layer.pdb
+D:\NetCourse\FinalProject_FullStack\2nd_v\MemoryMatch System\03 - Business Logic Layer\bin\Debug\03 - Business Logic Layer.dll.config
+D:\NetCourse\FinalProject_FullStack\2nd_v\MemoryMatch System\03 - Business Logic Layer\bin\Debug\03 - Business Logic Layer.dll
+D:\NetCourse\FinalProject_FullStack\2nd_v\MemoryMatch System\03 - Business Logic Layer\bin\Debug\03 - Business Logic Layer.pdb
+D:\NetCourse\FinalProject_FullStack\2nd_v\MemoryMatch System\03 - Business Logic Layer\bin\Debug\01 - Data Access Layer.dll
+D:\NetCourse\FinalProject_FullStack\2nd_v\MemoryMatch System\03 - Business Logic Layer\bin\Debug\02 - Business Entities Layer.dll
+D:\NetCourse\FinalProject_FullStack\2nd_v\MemoryMatch System\03 - Business Logic Layer\bin\Debug\EntityFramework.dll
+D:\NetCourse\FinalProject_FullStack\2nd_v\MemoryMatch System\03 - Business Logic Layer\bin\Debug\EntityFramework.SqlServer.dll
+D:\NetCourse\FinalProject_FullStack\2nd_v\MemoryMatch System\03 - Business Logic Layer\bin\Debug\01 - Data Access Layer.pdb
+D:\NetCourse\FinalProject_FullStack\2nd_v\MemoryMatch System\03 - Business Logic Layer\bin\Debug\01 - Data Access Layer.dll.config
+D:\NetCourse\FinalProject_FullStack\2nd_v\MemoryMatch System\03 - Business Logic Layer\bin\Debug\02 - Business Entities Layer.pdb
+D:\NetCourse\FinalProject_FullStack\2nd_v\MemoryMatch System\03 - Business Logic Layer\bin\Debug\EntityFramework.xml
+D:\NetCourse\FinalProject_FullStack\2nd_v\MemoryMatch System\03 - Business Logic Layer\bin\Debug\EntityFramework.SqlServer.xml
+D:\NetCourse\FinalProject_FullStack\2nd_v\MemoryMatch System\03 - Business Logic Layer\obj\Debug\03 - Business Logic Layer.csprojResolveAssemblyReference.cache
+D:\NetCourse\FinalProject_FullStack\2nd_v\MemoryMatch System\03 - Business Logic Layer\obj\Debug\03 - Business Logic Layer.csproj.CoreCompileInputs.cache
+D:\NetCourse\FinalProject_FullStack\2nd_v\MemoryMatch System\03 - Business Logic Layer\obj\Debug\03 - Business Logic Layer.dll
+D:\NetCourse\FinalProject_FullStack\2nd_v\MemoryMatch System\03 - Business Logic Layer\obj\Debug\03 - Business Logic Layer.pdb

@@ -1,0 +1,11 @@
+C:\Users\adi\Downloads\MemoryMatch System-20181211T102334Z-001\MemoryMatch System\02 - Business Entities Layer\bin\Debug\02 - Business Entities Layer.dll
+C:\Users\adi\Downloads\MemoryMatch System-20181211T102334Z-001\MemoryMatch System\02 - Business Entities Layer\bin\Debug\02 - Business Entities Layer.pdb
+C:\Users\adi\Downloads\MemoryMatch System-20181211T102334Z-001\MemoryMatch System\02 - Business Entities Layer\obj\Debug\02 - Business Entities Layer.csprojResolveAssemblyReference.cache
+C:\Users\adi\Downloads\MemoryMatch System-20181211T102334Z-001\MemoryMatch System\02 - Business Entities Layer\obj\Debug\02 - Business Entities Layer.csproj.CoreCompileInputs.cache
+C:\Users\adi\Downloads\MemoryMatch System-20181211T102334Z-001\MemoryMatch System\02 - Business Entities Layer\obj\Debug\02 - Business Entities Layer.dll
+C:\Users\adi\Downloads\MemoryMatch System-20181211T102334Z-001\MemoryMatch System\02 - Business Entities Layer\obj\Debug\02 - Business Entities Layer.pdb
+D:\NetCourse\FinalProject_FullStack\2nd_v\MemoryMatch System\02 - Business Entities Layer\bin\Debug\02 - Business Entities Layer.dll
+D:\NetCourse\FinalProject_FullStack\2nd_v\MemoryMatch System\02 - Business Entities Layer\bin\Debug\02 - Business Entities Layer.pdb
+D:\NetCourse\FinalProject_FullStack\2nd_v\MemoryMatch System\02 - Business Entities Layer\obj\Debug\02 - Business Entities Layer.csproj.CoreCompileInputs.cache
+D:\NetCourse\FinalProject_FullStack\2nd_v\MemoryMatch System\02 - Business Entities Layer\obj\Debug\02 - Business Entities Layer.dll
+D:\NetCourse\FinalProject_FullStack\2nd_v\MemoryMatch System\02 - Business Entities Layer\obj\Debug\02 - Business Entities Layer.pdb
