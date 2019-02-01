@@ -28,21 +28,6 @@ namespace JohnBryce
             return userModel;
         }
 
-        //public UserModel Login(string username, string password)
-        //{
-        //    return DB.Users
-        //        .Where(u => u.Username.ToLower() == username.ToLower() && u.Password.ToLower() == password.ToLower())
-        //        .Select(u => new UserModel
-        //        {
-        //            id = u.UserID,
-        //            fullName = u.FullName,
-        //            username = u.Username,
-        //            password = u.Password,
-        //            email = u.Email,
-        //            birthDate = u.BirthDate
-        //        }).SingleOrDefault();
-        //}
-
         public UserModel GetUserById(int id)
         {
             return DB.Users
